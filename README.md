@@ -17,8 +17,8 @@ The code is used to detect the skyline(the boundary between the sky area and the
 
 # Result
 
-![test.png](image/test.png)
-![result.png](image/result.png)
+![test.png](image/test.jpg)
+![result.png](image/result.jpg)
 
 # Cite
 @INPROCEEDINGS{7424466,  
